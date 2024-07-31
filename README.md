@@ -2,4 +2,4 @@
 periodic investment simulation
 
 
-Dynamic graphs are created by plotting.
+Dynamic graphs are created by Plotly.
